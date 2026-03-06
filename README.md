@@ -38,4 +38,4 @@ Mobile-first GTA V modding. Sliders → perfect meta files → DRIVE/SHOOT.
 
 ## 📖 Step-by-Step Usage
 
-### Weapons FREE v1.0
+### VehicleMerger FREE https://www.mediafire.com/file/xzd75d2j1wkbiny/GTA_V_Vehicle_Merger_v1.0_FREE.zip/file
