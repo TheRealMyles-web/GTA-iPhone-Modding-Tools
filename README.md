@@ -1,41 +1,18 @@
-# 🚀 GTA V iPhone Modding Tools
+# GTA V iPhone Modding Tools
 
-**Carnets → OpenIV. No PC coding needed. FREE demos + PRO upgrades.**
+Carnets-based tools generating OpenIV-compatible meta files for GTA V weapons and vehicles. No PC coding required.
 
-## 📱 What This Is
+## Free Versions
 
-Mobile-first GTA V modding. Sliders → perfect meta files → DRIVE/SHOOT.
+| Tool | Features | Limitations |
+|------|----------|-------------|
+| WeaponsMerger v1.0 | RPM tuning, magazine size, recoil adjustment | 3 weapons |
+| VehicleMerger v1.0 | Top speed, acceleration, handling tuning | 3 vehicles |
 
-| FREE Tool | What You Get | Upgrade Path |
-|-----------|--------------|--------------|
-| **Weapons FREE** | 3 weapons, 1200 RPM, basic meta | [PRO 50+ weapons](https://patreon.com/TheRealMyles) |
-| **Vehicles FREE** | 3 supercars, 200mph tuning | [PRO 85+ cars](https://patreon.com/TheRealMyles) |
+## Usage Workflow
 
-## 🎯 5-Minute iPhone Workflow
+1. Install Carnets app (iOS Jupyter)
+2. Open .ipynb file → Adjust parameters via GUI  
+3. Copy generated XML → OpenIV → GTA V update/data
+4. Use Menyoo/Simple Trainer to spawn
 
-
-## 💎 PRO Versions ($10/mo Patreon)
-
-**WeaponsMerger PRO v2.1:**
-- 50+ weapons (AK47, M4, Glock auto-switch)
-- 2500 RPM + 100rd drums + suppressors
-- weapons.meta + weaponanimations.meta
-- File import/export
-
-**VehicleMerger PRO v2.1:**
-- 85+ vehicles (Banshee, T20, Hellcat ready)
-- vehicles.meta + handling.meta + carcols.meta  
-- 250mph tuning + drift handling
-- ZIP export (OpenIV ready)
-
-**[patreon.com/TheRealMyles](https://patreon.com/TheRealMyles) → Discord + lifetime updates**
-
-## 🔥 Why Mobile Modding Rules
-
-**OpenIV = nightmare.** Manual XML editing. Wrong `fMass` = crash. Bad `fInitialDriveMaxFlatVel` = undriveable.
-
-**This = simple.** iPhone sliders → perfect math → instant results. Built for college kid who said "help me setup Menyoo".
-
-## 📖 Step-by-Step Usage
-
-### VehicleMerger FREE https://www.mediafire.com/file/xzd75d2j1wkbiny/GTA_V_Vehicle_Merger_v1.0_FREE.zip/file
